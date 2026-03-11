@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# CS61A OK 测试框架生成的临时文件
+.ok_storage
+.ok_history
+.ok_messages
+
+# 操作系统生成的临时文件
+.DS_Store
+Thumbs.db
+
+# 如果你用 VS Code，可以忽略它的配置文件夹（可选）
+.vscode/
